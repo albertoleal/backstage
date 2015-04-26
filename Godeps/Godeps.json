@@ -35,8 +35,7 @@
 		},
 		{
 			"ImportPath": "github.com/ccding/go-logging/logging",
-			"Comment": "v0.1-17-g031be99",
-			"Rev": "031be9955e9f0adf222458687d81a9b6d65cfe3c"
+			"Rev": "df0a178061f67ebc85ceac3f8a8d96df1a84f939"
 		},
 		{
 			"ImportPath": "github.com/fatih/structs",
