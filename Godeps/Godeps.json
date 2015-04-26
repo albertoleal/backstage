@@ -6,11 +6,6 @@
 	],
 	"Deps": [
 		{
-			"ImportPath": "bitbucket.org/kardianos/osext",
-			"Comment": "null-15",
-			"Rev": "44140c5fc69ecf1102c5ef451d73cd98ef59b178"
-		},
-		{
 			"ImportPath": "code.google.com/p/go-uuid/uuid",
 			"Comment": "null-12",
 			"Rev": "7dda39b2e7d5e265014674c5af696ba4186679e9"
